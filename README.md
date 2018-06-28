@@ -1,1 +1,1 @@
-# IOS-application-
+# Template Application + Smartwatch Application IOS EcoFeedback 
